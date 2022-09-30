@@ -1,4 +1,4 @@
-module "aws_network_east_1" {
+module "aws_network_east_2" {
   source = "./modules"
   cidr_block = var.cidr_block
   public_subnet_cidr = var.public_subnet_cidr
